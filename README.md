@@ -1,2 +1,5 @@
-# konful
-A site dedicated to my public projects
+# konradjanica.github.io/aMatch
+
+Responsive Static Webpage to Demonstate aMatch
+
+Built using Bootstrap
